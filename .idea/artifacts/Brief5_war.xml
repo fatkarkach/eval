@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Brief5:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Brief5</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Brief5-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Brief5:war exploded" />
+    </root>
+  </artifact>
+</component>
