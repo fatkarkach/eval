@@ -10,8 +10,8 @@ public class SendMail {
     public static void go(String toEmail,String Email,String code_active) throws MessagingException, IOException {
         //authentication info
 
-        final String username = "fatmita1998@gmail.com";
-        final String password = "nxhtkkkfrjlprlak";
+        final String username = "";
+        final String password = "";
 
         String host = "smtp.gmail.com";
 
